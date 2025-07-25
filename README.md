@@ -49,10 +49,3 @@ When teaching:
 Your peers can clone this repo and walk through problems incrementally—just like in class.
 
 ---
-
-## 🚀 How to Compile and Run
-
-```bash
-cd Object-Oriented-Programming
-g++ *.cpp -o oop-demo
-./oop-demo
