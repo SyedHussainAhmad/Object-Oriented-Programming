@@ -38,10 +38,10 @@ Implements robust error detection and recovery using `try`/`catch` blocks and cu
 
 ---
 
-## 🧠 TA Assist Mode
+## TA Assist Mode
 
 When teaching:
-- I led weekly lab sessions over Zoom.
+- I led weekly lab sessions.
 - Walked students through live coding examples.
 - Held office hours to debug and discuss best practices in design.
 - Used these projects as step-by-step practice materials.
