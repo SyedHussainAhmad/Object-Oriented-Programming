@@ -49,3 +49,11 @@ When teaching:
 Your peers can clone this repo and walk through problems incrementally—just like in class.
 
 ---
+## 👤 Author
+
+**Syed Hussain Ahmad**
+- GitHub: [@SyedHussainAhmad](https://github.com/SyedHussainAhmad)
+- LinkedIn: [Syed Hussain Ahmad](https://www.linkedin.com/in/syedhussainahmad/)
+
+---
+⭐ Star this repository if you found it helpful!
